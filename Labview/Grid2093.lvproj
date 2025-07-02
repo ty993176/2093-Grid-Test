@@ -18,12 +18,14 @@
 		<Item Name="DB_Write.vi" Type="VI" URL="../DB_Write.vi"/>
 		<Item Name="Main.vi" Type="VI" URL="../Main.vi"/>
 		<Item Name="Params.ctl" Type="VI" URL="../Params.ctl"/>
-		<Item Name="Schedule Editor.vi" Type="VI" URL="../Schedule Editor.vi"/>
+		<Item Name="Sched and Tubes.vi" Type="VI" URL="../Sched and Tubes.vi"/>
 		<Item Name="Schedule Global.vi" Type="VI" URL="../Schedule Global.vi"/>
+		<Item Name="Schedule Name.ctl" Type="VI" URL="../Schedule Name.ctl"/>
 		<Item Name="Schedule.ctl" Type="VI" URL="../Schedule.ctl"/>
 		<Item Name="Tubes.ctl" Type="VI" URL="../Tubes.ctl"/>
 		<Item Name="XML Parser Scheds.vi" Type="VI" URL="../XML Parser Scheds.vi"/>
 		<Item Name="XML Parser Tubes.vi" Type="VI" URL="../XML Parser Tubes.vi"/>
+		<Item Name="XMLEASY.vi" Type="VI" URL="../XMLEASY.vi"/>
 		<Item Name="Dependencies" Type="Dependencies">
 			<Item Name="vi.lib" Type="Folder">
 				<Item Name="BuildHelpPath.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/BuildHelpPath.vi"/>
