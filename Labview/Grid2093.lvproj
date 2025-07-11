@@ -25,6 +25,7 @@
 		<Item Name="Schedule Global.vi" Type="VI" URL="../Schedule Global.vi"/>
 		<Item Name="Schedule Name.ctl" Type="VI" URL="../Schedule Name.ctl"/>
 		<Item Name="Schedule.ctl" Type="VI" URL="../Schedule.ctl"/>
+		<Item Name="StepVals.vi" Type="VI" URL="../StepVals.vi"/>
 		<Item Name="TAGS.ctl" Type="VI" URL="../TAGS.ctl"/>
 		<Item Name="Tubes.ctl" Type="VI" URL="../Tubes.ctl"/>
 		<Item Name="XML Parser Scheds.vi" Type="VI" URL="../XML Parser Scheds.vi"/>
