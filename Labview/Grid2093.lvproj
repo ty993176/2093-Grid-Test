@@ -19,6 +19,7 @@
 		<Item Name="Main.vi" Type="VI" URL="../Main.vi"/>
 		<Item Name="Params.ctl" Type="VI" URL="../Params.ctl"/>
 		<Item Name="Sched and Tubes.vi" Type="VI" URL="../Sched and Tubes.vi"/>
+		<Item Name="Sched select.ctl" Type="VI" URL="../Sched select.ctl"/>
 		<Item Name="Sched select.vi" Type="VI" URL="../Sched select.vi"/>
 		<Item Name="SchedMenu.ctl" Type="VI" URL="../SchedMenu.ctl"/>
 		<Item Name="schednamecreator.vi" Type="VI" URL="../schednamecreator.vi"/>
