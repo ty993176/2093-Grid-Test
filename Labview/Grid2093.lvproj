@@ -18,22 +18,21 @@
 		<Item Name="DB_Write.vi" Type="VI" URL="../DB_Write.vi"/>
 		<Item Name="Main.vi" Type="VI" URL="../Main.vi"/>
 		<Item Name="Params.ctl" Type="VI" URL="../Params.ctl"/>
+		<Item Name="QSM - Editor.lvlib" Type="Library" URL="../QSM - Editor/QSM - Editor Folder/QSM - Editor.lvlib"/>
 		<Item Name="Sched and Tubes.vi" Type="VI" URL="../Sched and Tubes.vi"/>
 		<Item Name="Sched select.ctl" Type="VI" URL="../Sched select.ctl"/>
 		<Item Name="Sched select.vi" Type="VI" URL="../Sched select.vi"/>
 		<Item Name="SchedMenu.ctl" Type="VI" URL="../SchedMenu.ctl"/>
 		<Item Name="schednamecreator.vi" Type="VI" URL="../schednamecreator.vi"/>
-		<Item Name="Schedule Global.vi" Type="VI" URL="../Schedule Global.vi"/>
 		<Item Name="Schedule Name.ctl" Type="VI" URL="../Schedule Name.ctl"/>
 		<Item Name="Schedule.ctl" Type="VI" URL="../Schedule.ctl"/>
 		<Item Name="StepVals.ctl" Type="VI" URL="../StepVals.ctl"/>
 		<Item Name="StepVals.vi" Type="VI" URL="../StepVals.vi"/>
 		<Item Name="TAGS.ctl" Type="VI" URL="../TAGS.ctl"/>
 		<Item Name="Tubes.ctl" Type="VI" URL="../Tubes.ctl"/>
-		<Item Name="XML Parser Scheds.vi" Type="VI" URL="../XML Parser Scheds.vi"/>
 		<Item Name="XML Parser Tubes.vi" Type="VI" URL="../XML Parser Tubes.vi"/>
-		<Item Name="XML Write.vi" Type="VI" URL="../XML Write.vi"/>
-		<Item Name="XML.vi" Type="VI" URL="../XML.vi"/>
+		<Item Name="XML Write Scheds.vi" Type="VI" URL="../XML Write Scheds.vi"/>
+		<Item Name="XML Write Tubes.vi" Type="VI" URL="../XML Write Tubes.vi"/>
 		<Item Name="XMLEASY.vi" Type="VI" URL="../XMLEASY.vi"/>
 		<Item Name="Dependencies" Type="Dependencies">
 			<Item Name="user.lib" Type="Folder">
@@ -137,7 +136,13 @@
 				<Item Name="whitespace.ctl" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/whitespace.ctl"/>
 				<Item Name="XML Build Entity__JKI EasyXML.vi" Type="VI" URL="/&lt;vilib&gt;/addons/_JKI Toolkits/EasyXML/JKI_EasyXML.llb/XML Build Entity__JKI EasyXML.vi"/>
 			</Item>
+			<Item Name="Debugging - Output String to Debugger.vi" Type="VI" URL="../../../LabVIEW-Common/Source/Debugging - Output String to Debugger.vi"/>
 			<Item Name="DOMUserDefRef.dll" Type="Document" URL="DOMUserDefRef.dll">
+				<Property Name="NI.PreserveRelativePath" Type="Bool">true</Property>
+			</Item>
+			<Item Name="Execution - Close LabVIEW If Running As Executable.vi" Type="VI" URL="../../../LabVIEW-Common/Source/Execution - Close LabVIEW If Running As Executable.vi"/>
+			<Item Name="Execution - Determine Whether Running As Executable.vi" Type="VI" URL="../../../LabVIEW-Common/Source/Execution - Determine Whether Running As Executable.vi"/>
+			<Item Name="kernel32.dll" Type="Document" URL="kernel32.dll">
 				<Property Name="NI.PreserveRelativePath" Type="Bool">true</Property>
 			</Item>
 			<Item Name="lv_snap7.dll" Type="Document" URL="../../../../../snap7-full-1.4.0/LabVIEW/lib/windows/lv_snap7.dll"/>
