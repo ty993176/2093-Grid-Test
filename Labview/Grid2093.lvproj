@@ -14,11 +14,14 @@
 		<Item Name="Examples" Type="Folder" URL="../../../../../snap7-full-1.4.0/LabVIEW/Examples">
 			<Property Name="NI.DISK" Type="Bool">true</Property>
 		</Item>
+		<Item Name="CredentialCheck.vi" Type="VI" URL="../CredentialCheck.vi"/>
 		<Item Name="DB_Read.vi" Type="VI" URL="../DB_Read.vi"/>
 		<Item Name="DB_Write.vi" Type="VI" URL="../DB_Write.vi"/>
 		<Item Name="Main.vi" Type="VI" URL="../Main.vi"/>
 		<Item Name="Params.ctl" Type="VI" URL="../Params.ctl"/>
-		<Item Name="QSM - Editor.lvlib" Type="Library" URL="../QSM - Editor/QSM - Editor Folder/QSM - Editor.lvlib"/>
+		<Item Name="QSM - Editor.lvlib" Type="Library" URL="../QSM - Editor/QSM - Editor.lvlib"/>
+		<Item Name="QSM - Main.lvlib" Type="Library" URL="../QSM - Main/QSM - Main.lvlib"/>
+		<Item Name="QSM - Security.lvlib" Type="Library" URL="../QSM - Security/QSM - Security.lvlib"/>
 		<Item Name="Sched and Tubes.vi" Type="VI" URL="../Sched and Tubes.vi"/>
 		<Item Name="Sched select.ctl" Type="VI" URL="../Sched select.ctl"/>
 		<Item Name="Sched select.vi" Type="VI" URL="../Sched select.vi"/>
@@ -26,10 +29,13 @@
 		<Item Name="schednamecreator.vi" Type="VI" URL="../schednamecreator.vi"/>
 		<Item Name="Schedule Name.ctl" Type="VI" URL="../Schedule Name.ctl"/>
 		<Item Name="Schedule.ctl" Type="VI" URL="../Schedule.ctl"/>
+		<Item Name="Security.vi" Type="VI" URL="../Security.vi"/>
 		<Item Name="StepVals.ctl" Type="VI" URL="../StepVals.ctl"/>
 		<Item Name="StepVals.vi" Type="VI" URL="../StepVals.vi"/>
 		<Item Name="TAGS.ctl" Type="VI" URL="../TAGS.ctl"/>
 		<Item Name="Tubes.ctl" Type="VI" URL="../Tubes.ctl"/>
+		<Item Name="UserCredentials.ctl" Type="VI" URL="../UserCredentials.ctl"/>
+		<Item Name="UsersList.ctl" Type="VI" URL="../UsersList.ctl"/>
 		<Item Name="XML Parser Tubes.vi" Type="VI" URL="../XML Parser Tubes.vi"/>
 		<Item Name="XML Write Scheds.vi" Type="VI" URL="../XML Write Scheds.vi"/>
 		<Item Name="XML Write Tubes.vi" Type="VI" URL="../XML Write Tubes.vi"/>
@@ -65,6 +71,7 @@
 				<Item Name="ErrWarn.ctl" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/ErrWarn.ctl"/>
 				<Item Name="Escape-Unescape String for XML__JKI EasyXML.vi" Type="VI" URL="/&lt;vilib&gt;/addons/_JKI Toolkits/EasyXML/JKI_EasyXML.llb/Escape-Unescape String for XML__JKI EasyXML.vi"/>
 				<Item Name="eventvkey.ctl" Type="VI" URL="/&lt;vilib&gt;/event_ctls.llb/eventvkey.ctl"/>
+				<Item Name="ex_CorrectErrorChain.vi" Type="VI" URL="/&lt;vilib&gt;/express/express shared/ex_CorrectErrorChain.vi"/>
 				<Item Name="Find First Error.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/Find First Error.vi"/>
 				<Item Name="Find Tag.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/Find Tag.vi"/>
 				<Item Name="Format Generic Data to XML Value__JKI EasyXML.vi" Type="VI" URL="/&lt;vilib&gt;/addons/_JKI Toolkits/EasyXML/JKI_EasyXML.llb/Format Generic Data to XML Value__JKI EasyXML.vi"/>
@@ -119,6 +126,7 @@
 				<Item Name="Set String Value.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/Set String Value.vi"/>
 				<Item Name="Set VI Library File Info.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/libraryn.llb/Set VI Library File Info.vi"/>
 				<Item Name="Simple Error Handler.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/Simple Error Handler.vi"/>
+				<Item Name="subDisplayMessage.vi" Type="VI" URL="/&lt;vilib&gt;/express/express output/DisplayMessageBlock.llb/subDisplayMessage.vi"/>
 				<Item Name="TagReturnType.ctl" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/TagReturnType.ctl"/>
 				<Item Name="Three Button Dialog CORE.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/Three Button Dialog CORE.vi"/>
 				<Item Name="Three Button Dialog.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/Three Button Dialog.vi"/>
@@ -136,10 +144,12 @@
 				<Item Name="whitespace.ctl" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/whitespace.ctl"/>
 				<Item Name="XML Build Entity__JKI EasyXML.vi" Type="VI" URL="/&lt;vilib&gt;/addons/_JKI Toolkits/EasyXML/JKI_EasyXML.llb/XML Build Entity__JKI EasyXML.vi"/>
 			</Item>
+			<Item Name="Debugging - Output String to Debugger.vi" Type="VI" URL="../../../../LabVIEW-Common/Source/Debugging - Output String to Debugger.vi"/>
 			<Item Name="Debugging - Output String to Debugger.vi" Type="VI" URL="../../../LabVIEW-Common/Source/Debugging - Output String to Debugger.vi"/>
 			<Item Name="DOMUserDefRef.dll" Type="Document" URL="DOMUserDefRef.dll">
 				<Property Name="NI.PreserveRelativePath" Type="Bool">true</Property>
 			</Item>
+			<Item Name="Execution - Close LabVIEW If Running As Executable.vi" Type="VI" URL="../../../../LabVIEW-Common/Source/Execution - Close LabVIEW If Running As Executable.vi"/>
 			<Item Name="Execution - Close LabVIEW If Running As Executable.vi" Type="VI" URL="../../../LabVIEW-Common/Source/Execution - Close LabVIEW If Running As Executable.vi"/>
 			<Item Name="Execution - Determine Whether Running As Executable.vi" Type="VI" URL="../../../LabVIEW-Common/Source/Execution - Determine Whether Running As Executable.vi"/>
 			<Item Name="kernel32.dll" Type="Document" URL="kernel32.dll">
