@@ -10,7 +10,7 @@
 
 </Property>
 	<Item Name="Controls" Type="Folder">
-		<Property Name="NI.LibItem.Scope" Type="Int">2</Property>
+		<Property Name="NI.LibItem.Scope" Type="Int">1</Property>
 		<Item Name="Message Queue Element Position.ctl" Type="VI" URL="../Controls/Message Queue Element Position.ctl"/>
 		<Item Name="Message Queue Element.ctl" Type="VI" URL="../Controls/Message Queue Element.ctl"/>
 		<Item Name="Message Queue Reference Functional Global Variable Operation.ctl" Type="VI" URL="../Controls/Message Queue Reference Functional Global Variable Operation.ctl"/>
@@ -19,7 +19,7 @@
 		<Item Name="State Machine Message.ctl" Type="VI" URL="../Controls/State Machine Message.ctl"/>
 	</Item>
 	<Item Name="SubVIs" Type="Folder">
-		<Property Name="NI.LibItem.Scope" Type="Int">2</Property>
+		<Property Name="NI.LibItem.Scope" Type="Int">1</Property>
 		<Item Name="Create Message Queue.vi" Type="VI" URL="../SubVIs/Create Message Queue.vi"/>
 		<Item Name="Dequeue Message.vi" Type="VI" URL="../SubVIs/Dequeue Message.vi"/>
 		<Item Name="Destroy Message Queue.vi" Type="VI" URL="../SubVIs/Destroy Message Queue.vi"/>
