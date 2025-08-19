@@ -23,16 +23,20 @@
 		<Item Name="QSM - Main.lvlib" Type="Library" URL="../QSM - Main/QSM - Main.lvlib"/>
 		<Item Name="QSM - Security.lvlib" Type="Library" URL="../QSM - Security/QSM - Security.lvlib"/>
 		<Item Name="Sched and Tubes.vi" Type="VI" URL="../Sched and Tubes.vi"/>
+		<Item Name="Sched select tube mask.vi" Type="VI" URL="../Sched select tube mask.vi"/>
 		<Item Name="Sched select.ctl" Type="VI" URL="../Sched select.ctl"/>
 		<Item Name="Sched select.vi" Type="VI" URL="../Sched select.vi"/>
 		<Item Name="SchedMenu.ctl" Type="VI" URL="../SchedMenu.ctl"/>
 		<Item Name="schednamecreator.vi" Type="VI" URL="../schednamecreator.vi"/>
 		<Item Name="Schedule Name.ctl" Type="VI" URL="../Schedule Name.ctl"/>
 		<Item Name="Schedule.ctl" Type="VI" URL="../Schedule.ctl"/>
+		<Item Name="SchedViewOnly.vi" Type="VI" URL="../SchedViewOnly.vi"/>
 		<Item Name="Security.vi" Type="VI" URL="../Security.vi"/>
 		<Item Name="StepVals.ctl" Type="VI" URL="../StepVals.ctl"/>
 		<Item Name="StepVals.vi" Type="VI" URL="../StepVals.vi"/>
 		<Item Name="TAGS.ctl" Type="VI" URL="../TAGS.ctl"/>
+		<Item Name="Tube Select.vi" Type="VI" URL="../Tube Select.vi"/>
+		<Item Name="TubeMenu.ctl" Type="VI" URL="../TubeMenu.ctl"/>
 		<Item Name="Tubes.ctl" Type="VI" URL="../Tubes.ctl"/>
 		<Item Name="UserCredentials.ctl" Type="VI" URL="../UserCredentials.ctl"/>
 		<Item Name="UsersList.ctl" Type="VI" URL="../UsersList.ctl"/>
@@ -126,6 +130,7 @@
 				<Item Name="Set String Value.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/Set String Value.vi"/>
 				<Item Name="Set VI Library File Info.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/libraryn.llb/Set VI Library File Info.vi"/>
 				<Item Name="Simple Error Handler.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/Simple Error Handler.vi"/>
+				<Item Name="Space Constant.vi" Type="VI" URL="/&lt;vilib&gt;/dlg_ctls.llb/Space Constant.vi"/>
 				<Item Name="subDisplayMessage.vi" Type="VI" URL="/&lt;vilib&gt;/express/express output/DisplayMessageBlock.llb/subDisplayMessage.vi"/>
 				<Item Name="TagReturnType.ctl" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/TagReturnType.ctl"/>
 				<Item Name="Three Button Dialog CORE.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/Three Button Dialog CORE.vi"/>
