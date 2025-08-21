@@ -28,12 +28,14 @@
 		<Item Name="Sched select.vi" Type="VI" URL="../Sched select.vi"/>
 		<Item Name="SchedMenu.ctl" Type="VI" URL="../SchedMenu.ctl"/>
 		<Item Name="schednamecreator.vi" Type="VI" URL="../schednamecreator.vi"/>
+		<Item Name="Schedsteptodisplay.vi" Type="VI" URL="../Schedsteptodisplay.vi"/>
 		<Item Name="Schedule Name.ctl" Type="VI" URL="../Schedule Name.ctl"/>
 		<Item Name="Schedule.ctl" Type="VI" URL="../Schedule.ctl"/>
 		<Item Name="SchedViewOnly.vi" Type="VI" URL="../SchedViewOnly.vi"/>
 		<Item Name="Security.vi" Type="VI" URL="../Security.vi"/>
 		<Item Name="StepVals.ctl" Type="VI" URL="../StepVals.ctl"/>
 		<Item Name="StepVals.vi" Type="VI" URL="../StepVals.vi"/>
+		<Item Name="stepvariables.ctl" Type="VI" URL="../stepvariables.ctl"/>
 		<Item Name="TAGS.ctl" Type="VI" URL="../TAGS.ctl"/>
 		<Item Name="Tube Select.vi" Type="VI" URL="../Tube Select.vi"/>
 		<Item Name="TubeMenu.ctl" Type="VI" URL="../TubeMenu.ctl"/>
