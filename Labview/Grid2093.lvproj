@@ -22,6 +22,8 @@
 		<Item Name="CredentialCheck.vi" Type="VI" URL="../CredentialCheck.vi"/>
 		<Item Name="DB_Read.vi" Type="VI" URL="../DB_Read.vi"/>
 		<Item Name="DB_Write.vi" Type="VI" URL="../DB_Write.vi"/>
+		<Item Name="Limits.ctl" Type="VI" URL="../Limits.ctl"/>
+		<Item Name="LIMITS.vi" Type="VI" URL="../LIMITS.vi"/>
 		<Item Name="Main.vi" Type="VI" URL="../Main.vi"/>
 		<Item Name="Params.ctl" Type="VI" URL="../Params.ctl"/>
 		<Item Name="procnokLED.ctl" Type="VI" URL="../procnokLED.ctl"/>
@@ -30,8 +32,10 @@
 		<Item Name="procnokstringscontrol.ctl" Type="VI" URL="../procnokstringscontrol.ctl"/>
 		<Item Name="QSM - Alarms.lvlib" Type="Library" URL="../QSM - Alarms/QSM - Alarms.lvlib"/>
 		<Item Name="QSM - Editor.lvlib" Type="Library" URL="../QSM - Editor/QSM - Editor.lvlib"/>
+		<Item Name="QSM - Limits.lvlib" Type="Library" URL="../QSM - Limits/QSM - Limits.lvlib"/>
 		<Item Name="QSM - Main.lvlib" Type="Library" URL="../QSM - Main/QSM - Main.lvlib"/>
 		<Item Name="QSM - Security.lvlib" Type="Library" URL="../QSM - Security/QSM - Security.lvlib"/>
+		<Item Name="RunResults.ctl" Type="VI" URL="../RunResults.ctl"/>
 		<Item Name="Sched and Tubes.vi" Type="VI" URL="../Sched and Tubes.vi"/>
 		<Item Name="Sched select tube mask.vi" Type="VI" URL="../Sched select tube mask.vi"/>
 		<Item Name="Sched select.ctl" Type="VI" URL="../Sched select.ctl"/>
@@ -129,6 +133,7 @@
 				<Item Name="LVBoundsTypeDef.ctl" Type="VI" URL="/&lt;vilib&gt;/Utility/miscctls.llb/LVBoundsTypeDef.ctl"/>
 				<Item Name="LVDateTimeRec.ctl" Type="VI" URL="/&lt;vilib&gt;/Utility/miscctls.llb/LVDateTimeRec.ctl"/>
 				<Item Name="LVRectTypeDef.ctl" Type="VI" URL="/&lt;vilib&gt;/Utility/miscctls.llb/LVRectTypeDef.ctl"/>
+				<Item Name="LVSelectionTypeDef.ctl" Type="VI" URL="/&lt;vilib&gt;/Utility/miscctls.llb/LVSelectionTypeDef.ctl"/>
 				<Item Name="Multiline String to Array (Preserve EOLs)__JKI EasyXML.vi" Type="VI" URL="/&lt;vilib&gt;/addons/_JKI Toolkits/EasyXML/JKI_EasyXML.llb/Multiline String to Array (Preserve EOLs)__JKI EasyXML.vi"/>
 				<Item Name="NI_Data Type.lvlib" Type="Library" URL="/&lt;vilib&gt;/Utility/Data Type/NI_Data Type.lvlib"/>
 				<Item Name="NI_FileType.lvlib" Type="Library" URL="/&lt;vilib&gt;/Utility/lvfile.llb/NI_FileType.lvlib"/>
