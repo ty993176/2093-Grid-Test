@@ -14,7 +14,11 @@
 		<Item Name="Examples" Type="Folder" URL="../../../../../snap7-full-1.4.0/LabVIEW/Examples">
 			<Property Name="NI.DISK" Type="Bool">true</Property>
 		</Item>
+		<Item Name="AlarmLED.ctl" Type="VI" URL="../AlarmLED.ctl"/>
+		<Item Name="AlarmLEDscontrol.ctl" Type="VI" URL="../AlarmLEDscontrol.ctl"/>
 		<Item Name="ALARMS.vi" Type="VI" URL="../ALARMS.vi"/>
+		<Item Name="alarmstr.ctl" Type="VI" URL="../alarmstr.ctl"/>
+		<Item Name="Alarmstringscontrol.ctl" Type="VI" URL="../Alarmstringscontrol.ctl"/>
 		<Item Name="CredentialCheck.vi" Type="VI" URL="../CredentialCheck.vi"/>
 		<Item Name="DB_Read.vi" Type="VI" URL="../DB_Read.vi"/>
 		<Item Name="DB_Write.vi" Type="VI" URL="../DB_Write.vi"/>
