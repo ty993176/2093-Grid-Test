@@ -19,9 +19,11 @@
 		<Item Name="ALARMS.vi" Type="VI" URL="../ALARMS.vi"/>
 		<Item Name="alarmstr.ctl" Type="VI" URL="../alarmstr.ctl"/>
 		<Item Name="Alarmstringscontrol.ctl" Type="VI" URL="../Alarmstringscontrol.ctl"/>
+		<Item Name="biasdiff.ctl" Type="VI" URL="../biasdiff.ctl"/>
 		<Item Name="CredentialCheck.vi" Type="VI" URL="../CredentialCheck.vi"/>
 		<Item Name="DB_Read.vi" Type="VI" URL="../DB_Read.vi"/>
 		<Item Name="DB_Write.vi" Type="VI" URL="../DB_Write.vi"/>
+		<Item Name="gridvals.ctl" Type="VI" URL="../gridvals.ctl"/>
 		<Item Name="Limits.ctl" Type="VI" URL="../Limits.ctl"/>
 		<Item Name="LIMITS.vi" Type="VI" URL="../LIMITS.vi"/>
 		<Item Name="Main.vi" Type="VI" URL="../Main.vi"/>
