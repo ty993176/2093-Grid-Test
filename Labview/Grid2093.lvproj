@@ -19,11 +19,15 @@
 		<Item Name="ALARMS.vi" Type="VI" URL="../ALARMS.vi"/>
 		<Item Name="alarmstr.ctl" Type="VI" URL="../alarmstr.ctl"/>
 		<Item Name="Alarmstringscontrol.ctl" Type="VI" URL="../Alarmstringscontrol.ctl"/>
+		<Item Name="AnalogIOAll.ctl" Type="VI" URL="../AnalogIOAll.ctl"/>
+		<Item Name="AnalogIOsingle.ctl" Type="VI" URL="../AnalogIOsingle.ctl"/>
 		<Item Name="biasdiff.ctl" Type="VI" URL="../biasdiff.ctl"/>
 		<Item Name="CredentialCheck.vi" Type="VI" URL="../CredentialCheck.vi"/>
 		<Item Name="DB_Read.vi" Type="VI" URL="../DB_Read.vi"/>
 		<Item Name="DB_Write.vi" Type="VI" URL="../DB_Write.vi"/>
+		<Item Name="DigitalIOAll.ctl" Type="VI" URL="../DigitalIOAll.ctl"/>
 		<Item Name="gridvals.ctl" Type="VI" URL="../gridvals.ctl"/>
+		<Item Name="IO Docs.vi" Type="VI" URL="../IO Docs.vi"/>
 		<Item Name="Limits.ctl" Type="VI" URL="../Limits.ctl"/>
 		<Item Name="LIMITS.vi" Type="VI" URL="../LIMITS.vi"/>
 		<Item Name="Main.vi" Type="VI" URL="../Main.vi"/>
@@ -34,9 +38,11 @@
 		<Item Name="procnokstringscontrol.ctl" Type="VI" URL="../procnokstringscontrol.ctl"/>
 		<Item Name="QSM - Alarms.lvlib" Type="Library" URL="../QSM - Alarms/QSM - Alarms.lvlib"/>
 		<Item Name="QSM - Editor.lvlib" Type="Library" URL="../QSM - Editor/QSM - Editor.lvlib"/>
+		<Item Name="QSM - IODocs.lvlib" Type="Library" URL="../QSM - IODocs/QSM - IODocs.lvlib"/>
 		<Item Name="QSM - Limits.lvlib" Type="Library" URL="../QSM - Limits/QSM - Limits.lvlib"/>
 		<Item Name="QSM - Main.lvlib" Type="Library" URL="../QSM - Main/QSM - Main.lvlib"/>
 		<Item Name="QSM - Security.lvlib" Type="Library" URL="../QSM - Security/QSM - Security.lvlib"/>
+		<Item Name="remoterdgs.ctl" Type="VI" URL="../remoterdgs.ctl"/>
 		<Item Name="RunResults.ctl" Type="VI" URL="../RunResults.ctl"/>
 		<Item Name="Sched and Tubes.vi" Type="VI" URL="../Sched and Tubes.vi"/>
 		<Item Name="Sched select tube mask.vi" Type="VI" URL="../Sched select tube mask.vi"/>
