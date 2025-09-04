@@ -22,6 +22,11 @@
 		<Item Name="AnalogIOAll.ctl" Type="VI" URL="../AnalogIOAll.ctl"/>
 		<Item Name="AnalogIOsingle.ctl" Type="VI" URL="../AnalogIOsingle.ctl"/>
 		<Item Name="biasdiff.ctl" Type="VI" URL="../biasdiff.ctl"/>
+		<Item Name="camdeflections.ctl" Type="VI" URL="../camdeflections.ctl"/>
+		<Item Name="camexpvals.ctl" Type="VI" URL="../camexpvals.ctl"/>
+		<Item Name="cammeasures.ctl" Type="VI" URL="../cammeasures.ctl"/>
+		<Item Name="camrefvals.ctl" Type="VI" URL="../camrefvals.ctl"/>
+		<Item Name="camsettings.ctl" Type="VI" URL="../camsettings.ctl"/>
 		<Item Name="CredentialCheck.vi" Type="VI" URL="../CredentialCheck.vi"/>
 		<Item Name="DB_Read.vi" Type="VI" URL="../DB_Read.vi"/>
 		<Item Name="DB_Write.vi" Type="VI" URL="../DB_Write.vi"/>
@@ -36,6 +41,8 @@
 		<Item Name="procnokLEDScontrol.ctl" Type="VI" URL="../procnokLEDScontrol.ctl"/>
 		<Item Name="procnokstr.ctl" Type="VI" URL="../procnokstr.ctl"/>
 		<Item Name="procnokstringscontrol.ctl" Type="VI" URL="../procnokstringscontrol.ctl"/>
+		<Item Name="pulseparams.ctl" Type="VI" URL="../pulseparams.ctl"/>
+		<Item Name="pulserdgs.ctl" Type="VI" URL="../pulserdgs.ctl"/>
 		<Item Name="QSM - Alarms.lvlib" Type="Library" URL="../QSM - Alarms/QSM - Alarms.lvlib"/>
 		<Item Name="QSM - Editor.lvlib" Type="Library" URL="../QSM - Editor/QSM - Editor.lvlib"/>
 		<Item Name="QSM - IODocs.lvlib" Type="Library" URL="../QSM - IODocs/QSM - IODocs.lvlib"/>
