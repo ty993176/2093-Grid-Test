@@ -14,43 +14,22 @@
 		<Item Name="Examples" Type="Folder" URL="../../../../../snap7-full-1.4.0/LabVIEW/Examples">
 			<Property Name="NI.DISK" Type="Bool">true</Property>
 		</Item>
-		<Item Name="AlarmLED.ctl" Type="VI" URL="../AlarmLED.ctl"/>
-		<Item Name="AlarmLEDscontrol.ctl" Type="VI" URL="../AlarmLEDscontrol.ctl"/>
-		<Item Name="ALARMS.vi" Type="VI" URL="../ALARMS.vi"/>
-		<Item Name="alarmstr.ctl" Type="VI" URL="../alarmstr.ctl"/>
-		<Item Name="Alarmstringscontrol.ctl" Type="VI" URL="../Alarmstringscontrol.ctl"/>
 		<Item Name="AnalogIOAll.ctl" Type="VI" URL="../AnalogIOAll.ctl"/>
 		<Item Name="AnalogIOsingle.ctl" Type="VI" URL="../AnalogIOsingle.ctl"/>
-		<Item Name="biasdiff.ctl" Type="VI" URL="../biasdiff.ctl"/>
-		<Item Name="camdeflections.ctl" Type="VI" URL="../camdeflections.ctl"/>
-		<Item Name="camexpvals.ctl" Type="VI" URL="../camexpvals.ctl"/>
-		<Item Name="cammeasures.ctl" Type="VI" URL="../cammeasures.ctl"/>
-		<Item Name="camrefvals.ctl" Type="VI" URL="../camrefvals.ctl"/>
-		<Item Name="camsettings.ctl" Type="VI" URL="../camsettings.ctl"/>
 		<Item Name="CredentialCheck.vi" Type="VI" URL="../CredentialCheck.vi"/>
 		<Item Name="DB_Read.vi" Type="VI" URL="../DB_Read.vi"/>
 		<Item Name="DB_Write.vi" Type="VI" URL="../DB_Write.vi"/>
 		<Item Name="DigitalIOAll.ctl" Type="VI" URL="../DigitalIOAll.ctl"/>
-		<Item Name="gridvals.ctl" Type="VI" URL="../gridvals.ctl"/>
 		<Item Name="IO Docs.vi" Type="VI" URL="../IO Docs.vi"/>
 		<Item Name="Limits.ctl" Type="VI" URL="../Limits.ctl"/>
 		<Item Name="LIMITS.vi" Type="VI" URL="../LIMITS.vi"/>
-		<Item Name="Main.vi" Type="VI" URL="../Main.vi"/>
 		<Item Name="Params.ctl" Type="VI" URL="../Params.ctl"/>
-		<Item Name="procnokLED.ctl" Type="VI" URL="../procnokLED.ctl"/>
-		<Item Name="procnokLEDScontrol.ctl" Type="VI" URL="../procnokLEDScontrol.ctl"/>
-		<Item Name="procnokstr.ctl" Type="VI" URL="../procnokstr.ctl"/>
-		<Item Name="procnokstringscontrol.ctl" Type="VI" URL="../procnokstringscontrol.ctl"/>
-		<Item Name="pulseparams.ctl" Type="VI" URL="../pulseparams.ctl"/>
-		<Item Name="pulserdgs.ctl" Type="VI" URL="../pulserdgs.ctl"/>
 		<Item Name="QSM - Alarms.lvlib" Type="Library" URL="../QSM - Alarms/QSM - Alarms.lvlib"/>
 		<Item Name="QSM - Editor.lvlib" Type="Library" URL="../QSM - Editor/QSM - Editor.lvlib"/>
 		<Item Name="QSM - IODocs.lvlib" Type="Library" URL="../QSM - IODocs/QSM - IODocs.lvlib"/>
 		<Item Name="QSM - Limits.lvlib" Type="Library" URL="../QSM - Limits/QSM - Limits.lvlib"/>
 		<Item Name="QSM - Main.lvlib" Type="Library" URL="../QSM - Main/QSM - Main.lvlib"/>
 		<Item Name="QSM - Security.lvlib" Type="Library" URL="../QSM - Security/QSM - Security.lvlib"/>
-		<Item Name="remoterdgs.ctl" Type="VI" URL="../remoterdgs.ctl"/>
-		<Item Name="RunResults.ctl" Type="VI" URL="../RunResults.ctl"/>
 		<Item Name="Sched and Tubes.vi" Type="VI" URL="../Sched and Tubes.vi"/>
 		<Item Name="Sched select tube mask.vi" Type="VI" URL="../Sched select tube mask.vi"/>
 		<Item Name="Sched select.ctl" Type="VI" URL="../Sched select.ctl"/>
@@ -62,9 +41,7 @@
 		<Item Name="Schedule.ctl" Type="VI" URL="../Schedule.ctl"/>
 		<Item Name="SchedViewOnly.vi" Type="VI" URL="../SchedViewOnly.vi"/>
 		<Item Name="Security.vi" Type="VI" URL="../Security.vi"/>
-		<Item Name="StepVals.ctl" Type="VI" URL="../StepVals.ctl"/>
 		<Item Name="StepVals.vi" Type="VI" URL="../StepVals.vi"/>
-		<Item Name="stepvariables.ctl" Type="VI" URL="../stepvariables.ctl"/>
 		<Item Name="TAGS.ctl" Type="VI" URL="../TAGS.ctl"/>
 		<Item Name="Tube Select.vi" Type="VI" URL="../Tube Select.vi"/>
 		<Item Name="TubeMenu.ctl" Type="VI" URL="../TubeMenu.ctl"/>
@@ -176,6 +153,7 @@
 				<Item Name="Treat Entity Name__JKI EasyXML.vi" Type="VI" URL="/&lt;vilib&gt;/addons/_JKI Toolkits/EasyXML/JKI_EasyXML.llb/Treat Entity Name__JKI EasyXML.vi"/>
 				<Item Name="Trim Whitespace One-Sided.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/Trim Whitespace One-Sided.vi"/>
 				<Item Name="Trim Whitespace.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/Trim Whitespace.vi"/>
+				<Item Name="usereventprio.ctl" Type="VI" URL="/&lt;vilib&gt;/event_ctls.llb/usereventprio.ctl"/>
 				<Item Name="Variant to XML - core - __JKI EasyXML.vi" Type="VI" URL="/&lt;vilib&gt;/addons/_JKI Toolkits/EasyXML/JKI_EasyXML.llb/Variant to XML - core - __JKI EasyXML.vi"/>
 				<Item Name="VariantType.lvlib" Type="Library" URL="/&lt;vilib&gt;/Utility/VariantDataType/VariantType.lvlib"/>
 				<Item Name="whitespace.ctl" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/whitespace.ctl"/>
