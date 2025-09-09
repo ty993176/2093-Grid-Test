@@ -13,6 +13,7 @@
 		<Property Name="NI.LibItem.Scope" Type="Int">1</Property>
 		<Item Name="Exit.vi" Type="VI" URL="../API/Exit.vi"/>
 		<Item Name="Initialize.vi" Type="VI" URL="../API/Initialize.vi"/>
+		<Item Name="UpdateProcNok.vi" Type="VI" URL="../API/UpdateProcNok.vi"/>
 	</Item>
 	<Item Name="Controls" Type="Folder">
 		<Property Name="NI.LibItem.Scope" Type="Int">2</Property>

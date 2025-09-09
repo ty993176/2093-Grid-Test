@@ -14,13 +14,9 @@
 		<Item Name="Examples" Type="Folder" URL="../../../../../snap7-full-1.4.0/LabVIEW/Examples">
 			<Property Name="NI.DISK" Type="Bool">true</Property>
 		</Item>
-		<Item Name="AnalogIOAll.ctl" Type="VI" URL="../AnalogIOAll.ctl"/>
-		<Item Name="AnalogIOsingle.ctl" Type="VI" URL="../AnalogIOsingle.ctl"/>
 		<Item Name="CredentialCheck.vi" Type="VI" URL="../CredentialCheck.vi"/>
 		<Item Name="DB_Read.vi" Type="VI" URL="../DB_Read.vi"/>
 		<Item Name="DB_Write.vi" Type="VI" URL="../DB_Write.vi"/>
-		<Item Name="DigitalIOAll.ctl" Type="VI" URL="../DigitalIOAll.ctl"/>
-		<Item Name="IO Docs.vi" Type="VI" URL="../IO Docs.vi"/>
 		<Item Name="Limits.ctl" Type="VI" URL="../Limits.ctl"/>
 		<Item Name="LIMITS.vi" Type="VI" URL="../LIMITS.vi"/>
 		<Item Name="Params.ctl" Type="VI" URL="../Params.ctl"/>

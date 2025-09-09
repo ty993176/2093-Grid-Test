@@ -10,6 +10,13 @@
 
 </Property>
 	<Item Name="API" Type="Folder">
+		<Item Name="APIAnalogIOUpdate.vi" Type="VI" URL="../API/APIAnalogIOUpdate.vi"/>
+		<Item Name="APIBiasDiffupdate.vi" Type="VI" URL="../API/APIBiasDiffupdate.vi"/>
+		<Item Name="APIGXValsUpdate.vi" Type="VI" URL="../API/APIGXValsUpdate.vi"/>
+		<Item Name="APILimitUpdate.vi" Type="VI" URL="../API/APILimitUpdate.vi"/>
+		<Item Name="APIOffsetGainUpdate.vi" Type="VI" URL="../API/APIOffsetGainUpdate.vi"/>
+		<Item Name="APIOperatorUpdate.vi" Type="VI" URL="../API/APIOperatorUpdate.vi"/>
+		<Item Name="APIProcNOKUpdate.vi" Type="VI" URL="../API/APIProcNOKUpdate.vi"/>
 		<Item Name="Exit.vi" Type="VI" URL="../API/Exit.vi"/>
 		<Item Name="Initialize.vi" Type="VI" URL="../API/Initialize.vi"/>
 	</Item>
