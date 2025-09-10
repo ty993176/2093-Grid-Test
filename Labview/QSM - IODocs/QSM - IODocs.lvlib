@@ -32,7 +32,6 @@
 		<Item Name="AnalogIOAll.ctl" Type="VI" URL="../Controls/AnalogIOAll.ctl"/>
 		<Item Name="AnalogIOsingle.ctl" Type="VI" URL="../Controls/AnalogIOsingle.ctl"/>
 		<Item Name="DigitalIOAll.ctl" Type="VI" URL="../Controls/DigitalIOAll.ctl"/>
-		<Item Name="IO Docs.vi" Type="VI" URL="../IO Docs.vi"/>
 	</Item>
 	<Item Name="SubVIs" Type="Folder">
 		<Property Name="NI.LibItem.Scope" Type="Int">2</Property>
@@ -51,4 +50,8 @@
 		<Item Name="Register For User Event.vi" Type="VI" URL="../SubVIs/Register For User Event.vi"/>
 		<Item Name="Unregister From User Event.vi" Type="VI" URL="../SubVIs/Unregister From User Event.vi"/>
 	</Item>
+	<Item Name="SubVIs (Public)" Type="Folder">
+		<Item Name="SaveOffsetGainVals.vi" Type="VI" URL="../SubVIs/SaveOffsetGainVals.vi"/>
+	</Item>
+	<Item Name="IO Docs.vi" Type="VI" URL="../IO Docs.vi"/>
 </Library>
