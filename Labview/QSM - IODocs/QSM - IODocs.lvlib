@@ -10,6 +10,9 @@
 
 </Property>
 	<Item Name="API" Type="Folder">
+		<Item Name="APIAIOUpdateIODOCS.vi" Type="VI" URL="../API/APIAIOUpdateIODOCS.vi"/>
+		<Item Name="APIBIasDiffUpdateIODOCS.vi" Type="VI" URL="../API/APIBIasDiffUpdateIODOCS.vi"/>
+		<Item Name="APIGridValsUpdateIODOCS.vi" Type="VI" URL="../API/APIGridValsUpdateIODOCS.vi"/>
 		<Item Name="Exit.vi" Type="VI" URL="../API/Exit.vi"/>
 		<Item Name="Initialize.vi" Type="VI" URL="../API/Initialize.vi"/>
 	</Item>
@@ -51,6 +54,7 @@
 		<Item Name="Unregister From User Event.vi" Type="VI" URL="../SubVIs/Unregister From User Event.vi"/>
 	</Item>
 	<Item Name="SubVIs (Public)" Type="Folder">
+		<Item Name="ReadOffsetGainVals.vi" Type="VI" URL="../SubVIs/ReadOffsetGainVals.vi"/>
 		<Item Name="SaveOffsetGainVals.vi" Type="VI" URL="../SubVIs/SaveOffsetGainVals.vi"/>
 	</Item>
 	<Item Name="IO Docs.vi" Type="VI" URL="../IO Docs.vi"/>
