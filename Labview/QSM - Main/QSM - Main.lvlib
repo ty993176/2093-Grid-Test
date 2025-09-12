@@ -17,6 +17,8 @@
 		<Item Name="APIOffsetGainUpdate.vi" Type="VI" URL="../API/APIOffsetGainUpdate.vi"/>
 		<Item Name="APIOperatorUpdate.vi" Type="VI" URL="../API/APIOperatorUpdate.vi"/>
 		<Item Name="APIProcNOKUpdate.vi" Type="VI" URL="../API/APIProcNOKUpdate.vi"/>
+		<Item Name="APIUpdateSelectedScheduleMAIN.vi" Type="VI" URL="../API/APIUpdateSelectedScheduleMAIN.vi"/>
+		<Item Name="APIUpdateSelectedTubeMAIN.vi" Type="VI" URL="../API/APIUpdateSelectedTubeMAIN.vi"/>
 		<Item Name="Exit.vi" Type="VI" URL="../API/Exit.vi"/>
 		<Item Name="Initialize.vi" Type="VI" URL="../API/Initialize.vi"/>
 	</Item>
