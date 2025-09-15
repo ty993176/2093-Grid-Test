@@ -18,6 +18,7 @@
 		<Item Name="DB_Read.vi" Type="VI" URL="../DB_Read.vi"/>
 		<Item Name="DB_Write.vi" Type="VI" URL="../DB_Write.vi"/>
 		<Item Name="grid array issue.vi" Type="VI" URL="/M/Tyson Skogerboe/Grid Bug - Ryan/grid array issue.vi"/>
+		<Item Name="GUItoPLCfloat.vi" Type="VI" URL="../GUItoPLCfloat.vi"/>
 		<Item Name="Limits.ctl" Type="VI" URL="../Limits.ctl"/>
 		<Item Name="LIMITS.vi" Type="VI" URL="../LIMITS.vi"/>
 		<Item Name="Params.ctl" Type="VI" URL="../Params.ctl"/>
