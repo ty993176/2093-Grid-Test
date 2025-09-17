@@ -30,5 +30,6 @@
 		<Item Name="Flush Message Queue.vi" Type="VI" URL="../SubVIs/Flush Message Queue.vi"/>
 		<Item Name="Message Queue Reference Functional Global Variable.vi" Type="VI" URL="../SubVIs/Message Queue Reference Functional Global Variable.vi"/>
 	</Item>
+	<Item Name="LIMITS.vi" Type="VI" URL="../../LIMITS.vi"/>
 	<Item Name="QSM - Application.vi" Type="VI" URL="../QSM - Application.vi"/>
 </Library>

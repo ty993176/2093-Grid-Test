@@ -19,8 +19,8 @@
 		<Item Name="DB_Write.vi" Type="VI" URL="../DB_Write.vi"/>
 		<Item Name="grid array issue.vi" Type="VI" URL="/M/Tyson Skogerboe/Grid Bug - Ryan/grid array issue.vi"/>
 		<Item Name="GUItoPLCfloat.vi" Type="VI" URL="../GUItoPLCfloat.vi"/>
+		<Item Name="GUItoPLCInt.vi" Type="VI" URL="../GUItoPLCInt.vi"/>
 		<Item Name="Limits.ctl" Type="VI" URL="../Limits.ctl"/>
-		<Item Name="LIMITS.vi" Type="VI" URL="../LIMITS.vi"/>
 		<Item Name="Params.ctl" Type="VI" URL="../Params.ctl"/>
 		<Item Name="PLCtoGUI32bit.vi" Type="VI" URL="../PLCtoGUI32bit.vi"/>
 		<Item Name="QSM - Alarms.lvlib" Type="Library" URL="../QSM - Alarms/QSM - Alarms.lvlib"/>
@@ -165,6 +165,7 @@
 			</Item>
 			<Item Name="Execution - Close LabVIEW If Running As Executable.vi" Type="VI" URL="../../../../LabVIEW-Common/Source/Execution - Close LabVIEW If Running As Executable.vi"/>
 			<Item Name="Execution - Close LabVIEW If Running As Executable.vi" Type="VI" URL="../../../LabVIEW-Common/Source/Execution - Close LabVIEW If Running As Executable.vi"/>
+			<Item Name="Execution - Determine Whether Running As Executable.vi" Type="VI" URL="../../../../LabVIEW-Common/Source/Execution - Determine Whether Running As Executable.vi"/>
 			<Item Name="Execution - Determine Whether Running As Executable.vi" Type="VI" URL="../../../LabVIEW-Common/Source/Execution - Determine Whether Running As Executable.vi"/>
 			<Item Name="kernel32.dll" Type="Document" URL="kernel32.dll">
 				<Property Name="NI.PreserveRelativePath" Type="Bool">true</Property>
