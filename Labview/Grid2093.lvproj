@@ -23,6 +23,7 @@
 		<Item Name="Limits.ctl" Type="VI" URL="../Limits.ctl"/>
 		<Item Name="Params.ctl" Type="VI" URL="../Params.ctl"/>
 		<Item Name="PLCtoGUI32bit.vi" Type="VI" URL="../PLCtoGUI32bit.vi"/>
+		<Item Name="PLCtoGUIint.vi" Type="VI" URL="../PLCtoGUIint.vi"/>
 		<Item Name="QSM - Alarms.lvlib" Type="Library" URL="../QSM - Alarms/QSM - Alarms.lvlib"/>
 		<Item Name="QSM - Editor.lvlib" Type="Library" URL="../QSM - Editor/QSM - Editor.lvlib"/>
 		<Item Name="QSM - IODocs.lvlib" Type="Library" URL="../QSM - IODocs/QSM - IODocs.lvlib"/>
