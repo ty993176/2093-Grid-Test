@@ -17,7 +17,6 @@
 		<Item Name="CredentialCheck.vi" Type="VI" URL="../CredentialCheck.vi"/>
 		<Item Name="DB_Read.vi" Type="VI" URL="../DB_Read.vi"/>
 		<Item Name="DB_Write.vi" Type="VI" URL="../DB_Write.vi"/>
-		<Item Name="grid array issue.vi" Type="VI" URL="/M/Tyson Skogerboe/Grid Bug - Ryan/grid array issue.vi"/>
 		<Item Name="GUItoPLCfloat.vi" Type="VI" URL="../GUItoPLCfloat.vi"/>
 		<Item Name="GUItoPLCInt.vi" Type="VI" URL="../GUItoPLCInt.vi"/>
 		<Item Name="Limits.ctl" Type="VI" URL="../Limits.ctl"/>
