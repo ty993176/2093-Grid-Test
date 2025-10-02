@@ -159,14 +159,11 @@
 				<Item Name="XML Build Entity__JKI EasyXML.vi" Type="VI" URL="/&lt;vilib&gt;/addons/_JKI Toolkits/EasyXML/JKI_EasyXML.llb/XML Build Entity__JKI EasyXML.vi"/>
 			</Item>
 			<Item Name="Debugging - Output String to Debugger.vi" Type="VI" URL="../../../../LabVIEW-Common/Source/Debugging - Output String to Debugger.vi"/>
-			<Item Name="Debugging - Output String to Debugger.vi" Type="VI" URL="../../../LabVIEW-Common/Source/Debugging - Output String to Debugger.vi"/>
 			<Item Name="DOMUserDefRef.dll" Type="Document" URL="DOMUserDefRef.dll">
 				<Property Name="NI.PreserveRelativePath" Type="Bool">true</Property>
 			</Item>
 			<Item Name="Execution - Close LabVIEW If Running As Executable.vi" Type="VI" URL="../../../../LabVIEW-Common/Source/Execution - Close LabVIEW If Running As Executable.vi"/>
-			<Item Name="Execution - Close LabVIEW If Running As Executable.vi" Type="VI" URL="../../../LabVIEW-Common/Source/Execution - Close LabVIEW If Running As Executable.vi"/>
 			<Item Name="Execution - Determine Whether Running As Executable.vi" Type="VI" URL="../../../../LabVIEW-Common/Source/Execution - Determine Whether Running As Executable.vi"/>
-			<Item Name="Execution - Determine Whether Running As Executable.vi" Type="VI" URL="../../../LabVIEW-Common/Source/Execution - Determine Whether Running As Executable.vi"/>
 			<Item Name="kernel32.dll" Type="Document" URL="kernel32.dll">
 				<Property Name="NI.PreserveRelativePath" Type="Bool">true</Property>
 			</Item>
