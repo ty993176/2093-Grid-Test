@@ -14,6 +14,7 @@
 		<Item Name="Examples" Type="Folder" URL="../../../../../snap7-full-1.4.0/LabVIEW/Examples">
 			<Property Name="NI.DISK" Type="Bool">true</Property>
 		</Item>
+		<Item Name="Cam Data.lvlib" Type="Library" URL="../Cam Data/Cam Data.lvlib"/>
 		<Item Name="CredentialCheck.vi" Type="VI" URL="../CredentialCheck.vi"/>
 		<Item Name="Datasheet.ctl" Type="VI" URL="../Datasheet.ctl"/>
 		<Item Name="DatasheetPrinter.vi" Type="VI" URL="../DatasheetPrinter.vi"/>
@@ -31,6 +32,7 @@
 		<Item Name="QSM - Limits.lvlib" Type="Library" URL="../QSM - Limits/QSM - Limits.lvlib"/>
 		<Item Name="QSM - Main.lvlib" Type="Library" URL="../QSM - Main/QSM - Main.lvlib"/>
 		<Item Name="QSM - Security.lvlib" Type="Library" URL="../QSM - Security/QSM - Security.lvlib"/>
+		<Item Name="Read_camMode.vi" Type="VI" URL="../Cam Data/Read_camMode.vi"/>
 		<Item Name="Sched and Tubes.vi" Type="VI" URL="../Sched and Tubes.vi"/>
 		<Item Name="Sched select tube mask.vi" Type="VI" URL="../Sched select tube mask.vi"/>
 		<Item Name="Sched select.ctl" Type="VI" URL="../Sched select.ctl"/>
@@ -49,6 +51,7 @@
 		<Item Name="Tubes.ctl" Type="VI" URL="../Tubes.ctl"/>
 		<Item Name="UserCredentials.ctl" Type="VI" URL="../UserCredentials.ctl"/>
 		<Item Name="UsersList.ctl" Type="VI" URL="../UsersList.ctl"/>
+		<Item Name="vipx.dll" Type="Document" URL="../../vipx/vipx.dll"/>
 		<Item Name="XML Parser Tubes.vi" Type="VI" URL="../XML Parser Tubes.vi"/>
 		<Item Name="XML Write Scheds.vi" Type="VI" URL="../XML Write Scheds.vi"/>
 		<Item Name="XML Write Tubes.vi" Type="VI" URL="../XML Write Tubes.vi"/>
