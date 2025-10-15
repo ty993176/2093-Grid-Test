@@ -4,9 +4,12 @@
 	<Property Name="NI.Lib.SourceVersion" Type="Int">587235328</Property>
 	<Property Name="NI.Lib.Version" Type="Str">1.0.0.0</Property>
 	<Property Name="NI.LV.All.SourceOnly" Type="Bool">true</Property>
+	<Item Name="Read_camCalOffset.vi" Type="VI" URL="../Read_camCalOffset.vi"/>
 	<Item Name="Read_camData.vi" Type="VI" URL="../Read_camData.vi"/>
 	<Item Name="Read_camFrameRate.vi" Type="VI" URL="../Read_camFrameRate.vi"/>
+	<Item Name="Read_camMode.vi" Type="VI" URL="../Read_camMode.vi"/>
 	<Item Name="Read_camPercentMax.vi" Type="VI" URL="../Read_camPercentMax.vi"/>
 	<Item Name="Read_camUserSync.vi" Type="VI" URL="../Read_camUserSync.vi"/>
+	<Item Name="Read_StoreImage.vi" Type="VI" URL="../Read_StoreImage.vi"/>
 	<Item Name="Write_CamUserSync.vi" Type="VI" URL="../Write_CamUserSync.vi"/>
 </Library>

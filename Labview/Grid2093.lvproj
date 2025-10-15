@@ -25,6 +25,7 @@
 		<Item Name="Limits.ctl" Type="VI" URL="../Limits.ctl"/>
 		<Item Name="Params.ctl" Type="VI" URL="../Params.ctl"/>
 		<Item Name="PLCtoGUI32bit.vi" Type="VI" URL="../PLCtoGUI32bit.vi"/>
+		<Item Name="PLCtoGUIBool.vi" Type="VI" URL="../PLCtoGUIBool.vi"/>
 		<Item Name="PLCtoGUIint.vi" Type="VI" URL="../PLCtoGUIint.vi"/>
 		<Item Name="QSM - Alarms.lvlib" Type="Library" URL="../QSM - Alarms/QSM - Alarms.lvlib"/>
 		<Item Name="QSM - Editor.lvlib" Type="Library" URL="../QSM - Editor/QSM - Editor.lvlib"/>
@@ -32,7 +33,6 @@
 		<Item Name="QSM - Limits.lvlib" Type="Library" URL="../QSM - Limits/QSM - Limits.lvlib"/>
 		<Item Name="QSM - Main.lvlib" Type="Library" URL="../QSM - Main/QSM - Main.lvlib"/>
 		<Item Name="QSM - Security.lvlib" Type="Library" URL="../QSM - Security/QSM - Security.lvlib"/>
-		<Item Name="Read_camMode.vi" Type="VI" URL="../Cam Data/Read_camMode.vi"/>
 		<Item Name="Sched and Tubes.vi" Type="VI" URL="../Sched and Tubes.vi"/>
 		<Item Name="Sched select tube mask.vi" Type="VI" URL="../Sched select tube mask.vi"/>
 		<Item Name="Sched select.ctl" Type="VI" URL="../Sched select.ctl"/>
