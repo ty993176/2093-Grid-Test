@@ -44,6 +44,7 @@
 		<Item Name="Schedule.ctl" Type="VI" URL="../Schedule.ctl"/>
 		<Item Name="SchedViewOnly.vi" Type="VI" URL="../SchedViewOnly.vi"/>
 		<Item Name="Security.vi" Type="VI" URL="../Security.vi"/>
+		<Item Name="Status.ctl" Type="VI" URL="../Status.ctl"/>
 		<Item Name="StepVals.vi" Type="VI" URL="../StepVals.vi"/>
 		<Item Name="TAGS.ctl" Type="VI" URL="../TAGS.ctl"/>
 		<Item Name="Tube Select.vi" Type="VI" URL="../Tube Select.vi"/>
