@@ -21,12 +21,14 @@
 		<Item Name="DatasheetPrinter.vi" Type="VI" URL="../DatasheetPrinter.vi"/>
 		<Item Name="DB_Read.vi" Type="VI" URL="../DB_Read.vi"/>
 		<Item Name="DB_Write.vi" Type="VI" URL="../DB_Write.vi"/>
+		<Item Name="GUItoPLCBoolArray.vi" Type="VI" URL="../GUItoPLCBoolArray.vi"/>
 		<Item Name="GUItoPLCfloat.vi" Type="VI" URL="../GUItoPLCfloat.vi"/>
 		<Item Name="GUItoPLCInt.vi" Type="VI" URL="../GUItoPLCInt.vi"/>
 		<Item Name="Limits.ctl" Type="VI" URL="../Limits.ctl"/>
 		<Item Name="Params.ctl" Type="VI" URL="../Params.ctl"/>
 		<Item Name="PLCtoGUI32bit.vi" Type="VI" URL="../PLCtoGUI32bit.vi"/>
 		<Item Name="PLCtoGUIBool.vi" Type="VI" URL="../PLCtoGUIBool.vi"/>
+		<Item Name="PLCtoGUIBoolArray.vi" Type="VI" URL="../PLCtoGUIBoolArray.vi"/>
 		<Item Name="PLCtoGUIint.vi" Type="VI" URL="../PLCtoGUIint.vi"/>
 		<Item Name="QSM - Alarms.lvlib" Type="Library" URL="../QSM - Alarms/QSM - Alarms.lvlib"/>
 		<Item Name="QSM - Editor.lvlib" Type="Library" URL="../QSM - Editor/QSM - Editor.lvlib"/>
